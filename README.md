@@ -1,3 +1,10 @@
+NOTE: THIS IS THE LATEST VERSION I CAN FIND FROM oziee/ha-solcast-solar
+I AM NOT A DEVELOPER.  Add a branch and Pull Request if you want to add value.   Discuss amongst yourselves solutions. I will not be solving anything.
+
+A big thank you to Oziee for the amazing work to build this to where it is today.  Your legacy will live on, the trolls will continue to live under a bridge and have warts on their nose.
+
+---
+
 
 # HA Solcast PV Solar Forecast Integration
 
